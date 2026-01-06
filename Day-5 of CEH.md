@@ -75,7 +75,7 @@ Footprinting can be:
 - Cloud usage (IaaS / PaaS)
 
 <center>
-  <img src="images/109.png" alt="Information Obtained in Footprinting" width="600">
+  <img src="images/109.jpg" alt="Information Obtained in Footprinting" width="600">
 </center>
 
 ---
