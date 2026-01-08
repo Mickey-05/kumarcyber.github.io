@@ -417,7 +417,7 @@ Angry IP Scanner is used to quickly discover live hosts and open ports in a netw
 
 ---
 
-## Summary (Keywords)
+## Summary 
 
 - Network and Packets
 - NIC and MAC Address
