@@ -15,7 +15,7 @@ A **network** is a collection of connected devices such as:
 These devices communicate with each other to share data and resources.
 
 <center>
-  <img src="images/173.png" alt="Network" width="600">
+  <img src="images/173.png" alt="Network" width="300">
 </center>
 
 ---
