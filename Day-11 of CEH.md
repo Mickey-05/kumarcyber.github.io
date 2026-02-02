@@ -233,7 +233,7 @@ Uses predefined wordlists such as admin, root, and password.
 </center>
 
 <center>
-  <img src="images/278.png" alt="2" width="600">
+  <img src="images/278.png" alt="2" width="300">
 </center>
 
 <center>
@@ -241,7 +241,7 @@ Uses predefined wordlists such as admin, root, and password.
 </center>
 
 <center>
-  <img src="images/281.png" alt="2" width="600">
+  <img src="images/281.png" alt="2" width="300">
 </center>
 
 <center>
